@@ -64,7 +64,7 @@ public class hello : MonoBehaviour
 
 ```
 ## Output:
-### Sceene 1:
+### Scene 1:
 ![ouput](s2.png)
 
 ### After the Ball Hit the cube:
